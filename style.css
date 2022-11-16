@@ -1304,7 +1304,7 @@ h1.big-text {
 .member img {
     display: inline-block;
     vertical-align: middle;
-    max-width: 500px;
+    max-width: 450px;
 }
 
 .member-content {
